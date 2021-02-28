@@ -7,8 +7,8 @@ picture. There are currently different sports supported, like volleyball,
 badminton and chess. However, the range of supported sports is freely expandable.
 
 ### Team members
-Nóra Almási
-Barnabás Börcsök
+- Nóra Almási
+- Barnabás Börcsök
 
 ## Dataset
 
