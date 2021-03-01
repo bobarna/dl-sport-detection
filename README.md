@@ -7,8 +7,13 @@ picture. There are currently different sports supported, like volleyball,
 badminton and chess. However, the range of supported sports is freely expandable.
 
 ### Team members
-- Nóra Almási
-- Barnabás Börcsök
+- Nóra Almási ([almasinori@gmail.com](mailto:almasinori@gmail.com))
+- Barnabás Börcsök ([barnabas.borcsok@gmail.com](mailto:barnabas.borcsok@gmail.com))
+
+## Data Loading
+```
+python3 sport-detection.py
+```
 
 ## Dataset
 
