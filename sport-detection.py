@@ -59,6 +59,8 @@ X = []
 # Fill X values
 counter = 0
 for curr_image in X_paths:
+    # TODO
+    # Fix file formats, because right now X and Y values don't get aligned!
     if (
         curr_image.split(".")[-1] != "jpg" and
         curr_image.split(".")[-1] != "jpeg" and
