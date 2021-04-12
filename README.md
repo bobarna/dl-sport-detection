@@ -10,10 +10,11 @@ badminton and chess. However, the range of supported sports is freely expandable
 - Nóra Almási ([almasinori@gmail.com](mailto:almasinori@gmail.com))
 - Barnabás Börcsök ([barnabas.borcsok@gmail.com](mailto:barnabas.borcsok@gmail.com))
 
-## Data Loading
-```
-python3 sport-detection.py
-```
+## Project work
+For milestone 1 turn in, check out the `milestone-1` tag in this repo.
+
+For current work, please see [this
+notebook](https://colab.research.google.com/drive/1vEGFQGVteswhJv7rEVH_5j4dADcq0qec?usp=sharing)
 
 ## Dataset
 
