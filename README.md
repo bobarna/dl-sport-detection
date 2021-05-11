@@ -11,10 +11,15 @@ badminton and chess. However, the range of supported sports is freely expandable
 - Barnabás Börcsök ([barnabas.borcsok@gmail.com](mailto:barnabas.borcsok@gmail.com))
 
 ## Project work
-For milestone 1 turn in, check out the `milestone-1` tag in this repo.
+*For milestone 1 turn in, check out the `milestone-1` tag in this repo.*
 
-For current work, please see [this
-notebook](https://colab.research.google.com/drive/1vEGFQGVteswhJv7rEVH_5j4dADcq0qec?usp=sharing)
+We used [this google collab
+notebook](https://colab.research.google.com/drive/1vEGFQGVteswhJv7rEVH_5j4dADcq0qec?usp=sharing) for the work. We uploaded the .ipynb notebook to the current repository.
+
+### Uploaded final submission
+- [.ipynb notebook](dl_sport_detection.ipynb)
+- [Documentation](documentation.pdf)
+- [Presentation slides](presentation.pdf)
 
 ## Dataset
 
