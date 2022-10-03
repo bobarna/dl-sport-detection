@@ -11,15 +11,15 @@ badminton and chess. However, the range of supported sports is freely expandable
 - Barnabás Börcsök ([barnabas.borcsok@gmail.com](mailto:barnabas.borcsok@gmail.com))
 
 ## Project work
-*For milestone 1 turn in, check out the `milestone-1` tag in this repo.*
 
 We used [this google collab
-notebook](https://colab.research.google.com/drive/1vEGFQGVteswhJv7rEVH_5j4dADcq0qec?usp=sharing) for the work. We uploaded the .ipynb notebook to the current repository.
+notebook](https://colab.research.google.com/drive/1vEGFQGVteswhJv7rEVH_5j4dADcq0qec?usp=sharing)
+for the work. We uploaded the .ipynb notebook to the current repository.
 
 ### Uploaded final submission
-- [.ipynb notebook](dl_sport_detection.ipynb)
-- [Documentation](documentation.pdf)
-- [Presentation slides](presentation.pdf)
+- [.ipynb notebook](https://bobarna.github.io/dl-sport-detection/dl_sport_detection.ipynb)
+- [Documentation](https://bobarna.github.io/dl-sport-detection/documentation.pdf)
+- [Presentation slides](https://bobarna.github.io/dl-sport-detection/presentation.pdf)
 
 ## Dataset
 
@@ -54,7 +54,6 @@ notebook](https://colab.research.google.com/drive/1vEGFQGVteswhJv7rEVH_5j4dADcq0
 - wwe
 
 ## Dependencies
-
 ```
 pip3 install tensorflow-gpu
 pip3 install tensorflow
